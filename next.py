@@ -14,7 +14,7 @@ pygame.mouse.set_visible(True)
 screen = pygame.display.set_mode((W, H))
 screen.fill(BLUE)
 
-pygame.draw.rect(screen, RED, (20, 20, ))
+#pygame.draw.rect(screen, RED, (20, 20, ))
 
 
 
