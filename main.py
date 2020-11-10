@@ -33,7 +33,7 @@ while run:
             if e.key == pygame.K_ESCAPE:
                 run = False
 
-    if block == 0:           
+    if block == 0:
         screen.blit(red, red_rect)
         red.fill(RED)
         screen.blit(font1.render(a, True, RED), (300, 300))
